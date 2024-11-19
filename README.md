@@ -22,4 +22,4 @@ u can easily deploying at vercel, after editing the image or text from the web
 
 # Information
 
-Related project <a href="https://github.com/janexmgd/nikahfix-be">nikahfix backend</>
+Related project <a href="https://github.com/janexmgd/nikahfix-be">nikahfix backend</a>
